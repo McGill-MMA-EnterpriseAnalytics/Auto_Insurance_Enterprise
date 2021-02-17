@@ -1,0 +1,60 @@
+,predictor,ranking
+0,Customer Lifetime Value,1
+1,Gender,1
+2,Income,1
+3,Monthly Premium Auto,1
+4,Months Since Last Claim,1
+5,Months Since Policy Inception,1
+6,Number of Open Complaints,1
+7,Number of Policies,1
+8,Total Claim Amount,1
+9,State_Arizona,21
+10,State_California,17
+11,State_Nevada,29
+12,State_Oregon,19
+13,State_Washington,25
+14,Coverage_Basic,1
+15,Coverage_Extended,6
+16,Coverage_Premium,16
+17,Education_Bachelor,1
+18,Education_College,1
+19,Education_Doctor,13
+20,Education_High School or Below,1
+21,Education_Master,9
+22,EmploymentStatus_Disabled,24
+23,EmploymentStatus_Employed,3
+24,EmploymentStatus_Medical Leave,22
+25,EmploymentStatus_Retired,1
+26,EmploymentStatus_Unemployed,12
+27,Location Code_Rural,27
+28,Location Code_Suburban,1
+29,Location Code_Urban,14
+30,Marital Status_Divorced,1
+31,Marital Status_Married,1
+32,Marital Status_Single,1
+33,Policy_Corporate L1,32
+34,Policy_Corporate L2,28
+35,Policy_Corporate L3,26
+36,Policy_Personal L1,23
+37,Policy_Personal L2,20
+38,Policy_Personal L3,15
+39,Policy_Special L1,35
+40,Policy_Special L2,34
+41,Policy_Special L3,30
+42,Renew Offer Type_Offer1,1
+43,Renew Offer Type_Offer2,1
+44,Renew Offer Type_Offer3,2
+45,Renew Offer Type_Offer4,7
+46,Sales Channel_Agent,1
+47,Sales Channel_Branch,1
+48,Sales Channel_Call Center,5
+49,Sales Channel_Web,10
+50,Vehicle Class_Four-Door Car,1
+51,Vehicle Class_Luxury Car,33
+52,Vehicle Class_Luxury SUV,31
+53,Vehicle Class_SUV,11
+54,Vehicle Class_Sports Car,18
+55,Vehicle Class_Two-Door Car,4
+56,Vehicle Size_Large,1
+57,Vehicle Size_Medsize,1
+58,Vehicle Size_Small,8
