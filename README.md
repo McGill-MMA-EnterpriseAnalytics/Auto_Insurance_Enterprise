@@ -24,4 +24,3 @@ Future steps:
 Link to the dataset: https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data
 
 **Refer to the Final Files folder for all the modelling notebooks.
-**
